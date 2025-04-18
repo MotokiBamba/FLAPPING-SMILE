@@ -1,1 +1,2 @@
 # FLAPPING-SMILE
+flappy birdをオマージュしたゲームです
